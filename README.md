@@ -1,2 +1,2 @@
-# lifeboat-theory
-Main repository for LIfeboat Theory
+# Lifeboat Theory
+Main repository for Lifeboat Theory
