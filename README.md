@@ -15,5 +15,16 @@ What about time demands? Traditional full-time employment demands a full 40 hour
 
 What about governance? Surely, a lifeboat without some kind of governance is just chaotic and doomed to catastrophe. Let's assign a Benevolent Dictator. Their job is to govern the lifeboat, and make the final decisions. However, they are not just manager types coming down with edicts from the clouds. They have to row the lifeboat just like everybody else. How much they get rewarded for taking on additional responsibilites is a negotiation with the rest of the lifeboat crew. Additionally, each crewmember on their lifeboat is only devoting 4 hours a week to the lifeboat, making it much easier for them to terminate their relationship with the lifeboat and the Benevolent Dictator, depending on the circumstances. In general, individuals can be on multiple lifeboats throughout a given week. If their relationship is terminated with one lifeboat, they still have others they are on.
 
-How do people actually work while on the lifeboat? No more silos or people being assigned tasks to be done individually. All decisions are made in the open with all crewmates and all tasks are recorded. To achieve this, we borrow from the technique of Mob Programming: 
+How do people actually work while on the lifeboat? No more silos or people being assigned tasks to be done individually. All decisions are made in the open with all crewmates and all working sessions are recorded so they can be reviewed later. To achieve this, we borrow from the technique of Mob Programming: https://en.wikipedia.org/wiki/Team_programming. 
 
+## Summary of the Format
+* 1-7 people (although realistically, more like 2-7 people. A lifeboat of 1 would just be a 'solopreneur' of sorts)
+* 4 hours per week
+* 'Mob' style working
+
+## Format Concepts
+The invariants of the format might seem bizarre and restrictive but they serve a purporse. If the lifeboat working sessions are restricted to 4 hours per week, this means that to earn significant money, the decisions and actions of the crew must be high-leverage. A lifeboat starting off probably won't have such high leverage, but will have to work up to it. The short working time window discourages possibilities of 'side hustle' type activities that are not leveraged and have fixed payouts per task. Ideally, a lifeboat should construct money-making systems that are passive and highly leveraged (a few number of actions have a large impact and earn significant sums of money).
+
+The small size of the lifeboat is important as well. It insures maximum agility in the face of changing market conditions. The total number of relationships that can form with 7 people is 21, making the lifeboat organization as a whole extremely agile as compared to a large organization.
+
+The 'Mob' style working does multiple things. First, it forces people to learn how to perform tasks quickly and efficiently. With a number of eyes watching you, you tend to want to perform better (use keyboard shortcuts, be very organized etc.). Second, 'mob' style working is more social. Humans are social animals after all and when someone is given a task to go off to do on their own, that diminishes the social aspect of work. Third, everyone can watch every single action and learn from each other. No actions are done 'behind the scenes' and hopefully, things that happen after hours are kept to a minimum.
